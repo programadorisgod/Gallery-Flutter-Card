@@ -6,7 +6,7 @@ Una galeria de cards en donde practico la reutilizacion de widgets
 
 [![Un avance de lo que veras](toolsview/muestra.png)]
 
-[![Un avance de lo que veras](toolsview/muestra.png)](toolsview/video,mp4)
+[![Un avance de lo que veras](toolsview/muestra.png)](toolsview/video.mp4)
 
 
 
