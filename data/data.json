@@ -1,0 +1,29 @@
+{
+    "rutas": [
+        {
+          "ruta": "movils",
+          "icon": "phone",
+          "title": "Moviles"
+        },
+        {
+          "ruta": "tv",
+          "icon": "tv",
+          "title": "Tv"
+        },
+        {
+          "ruta": "games",
+          "icon": "game",
+          "title": "Games"
+        },
+        {
+          "ruta": "pc",
+          "icon": "pc",
+          "title": "Computers"
+        },
+        {
+          "ruta": "pets",
+          "icon": "pets",
+          "title": "Pets"
+        }
+      ]
+}

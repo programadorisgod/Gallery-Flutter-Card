@@ -1,0 +1,30 @@
+{
+    "pets": [
+      {
+        "name": "Perro",
+        "url": "https://img.freepik.com/free-photo/puppy-that-is-walking-snow_1340-37228.jpg",
+        "description": "Un perro juguetón y leal que ama los paseos al aire libre."
+      },
+      {
+        "name": "Gato",
+        "url": "https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&quality=85&auto=format&fit=max&s=a52bbe202f57ac0f5ff7f47166906403",
+        "description": "Una gata curiosa y cariñosa que disfruta explorando su entorno."
+      },
+      {
+        "name": "Pájaro",
+        "url": "https://debspark.audubon.org/sites/default/files/styles/hero_mobile/public/western_tanager_usfws.jpg?itok=30SSiFxC",
+        "description": "Un pájaro colorido y activo que llena el hogar con su canto."
+      },
+      {
+        "name": "Conejo",
+        "url": "https://www.humanesociety.org/sites/default/files/2019/03/rabbit-475261_0.jpg",
+        "description": "Un conejo simpático y tranquilo que adora comer zanahorias."
+      },
+      {
+        "name": "Hámster",
+        "url": "https://www.tiendanimal.es/articulos/wp-content/uploads/2017/12/Que-comen-los-hamster-1.jpg",
+        "description": "Un hámster juguetón y adorable que ama correr en su rueda."
+      }
+    ]
+  }
+  

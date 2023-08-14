@@ -1,0 +1,30 @@
+{
+    "phones": [
+      {
+        "name": "iPhone 13 Pro",
+        "url": "https://i.blogs.es/cc1f47/img_9238/840_560.jpg",
+        "description": "El último iPhone con pantalla ProMotion de 120 Hz y potente rendimiento."
+      },
+      {
+        "name": "Galaxy S22 Ultra",
+        "url": "https://www.dpreview.com/files/p/articles/4617565053/samsung-galaxy-s22-ultra.jpeg",
+        "description": "Teléfono Android insignia con cámara versátil y funciones premium."
+      },
+      {
+        "name": "Google Pixel 6 Pro",
+        "url": "https://www.cnet.com/a/img/resize/dc9bebe7f2787c380c27e04e92759da0f14169db/hub/2021/10/25/56645940-feca-4592-b44e-11c8b60ff059/pixel-6-pro-cnet-review-hoyle-28.jpg?auto=webp&fit=crop&height=1200&width=1200",
+        "description": "Pixel con increíble calidad de cámara y experiencia de Android puro."
+      },
+      {
+        "name": "OnePlus 9 Pro " ,
+        "url": "https://www.androidauthority.com/wp-content/uploads/2021/03/OnePlus-9-Pro-in-hand-angled.jpg",
+        "description": "Potente dispositivo con OxygenOS y rendimiento de alta gama."
+      },
+      {
+        "name": "Xiaomi Mi 12",
+        "url": "https://www.enter.co/wp-content/uploads/2022/10/684192462_225486165_1706x1325.webp",
+        "description": "Teléfono asequible con especificaciones impresionantes y MIUI."
+      }
+    ]
+  }
+  

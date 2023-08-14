@@ -1,0 +1,30 @@
+{
+    "pcs": [
+      {
+        "name": "Apple Mac Pro",
+        "url": "https://c.files.bbci.co.uk/10A05/production/_110110186_gettyimages-1147877086.jpg",
+        "description": "Estación de trabajo de alto rendimiento con potencia y diseño de Apple."
+      },
+      {
+        "name": "Gamer Xtreme VR",
+        "url": "https://www.infobae.com/new-resizer/HfUaWReCv3ZzeLLzKba87xgAROQ=/arc-anglerfish-arc2-prod-infobae/public/UGRPUCERCVBSJAN2HQ5ZQYI2QE.jpg",
+        "description": "PC con experiencia de realidad virtual y excelente relación calidad-precio."
+      },
+      {
+        "name": "Lenovo Legion 5",
+        "url": "https://www.professionalwireless.com.co/wp-content/uploads/2022/07/legion-5-15ITH6H-82JH008LUS_64GB.jpg",
+        "description": "Portátil gaming con procesador potente y gráficos de alta calidad."
+      },
+      {
+        "name": "ThinkPad X1 Carbon",
+        "url": "https://images.hothardware.com/contentimages/article/3226/content/4x3_1600x1200_highres-thinkpad-x1-carbon-gen-10.jpg",
+        "description": "Portátil profesional ultraligero y duradero para el trabajo en movimiento."
+      },
+      {
+        "name": "Huawei MateBook X Pro",
+        "url": "https://latit.co/wp-content/uploads/2021/08/91c0d5885b833695f47c5666ee2331cc.png",
+        "description": "Portátil premium con pantalla táctil y rendimiento elegante."
+      }
+    ]
+  }
+  

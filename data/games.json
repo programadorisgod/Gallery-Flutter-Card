@@ -1,0 +1,30 @@
+{
+    "games": [
+      {
+        "name": "FIFA 24",
+        "url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/07/ea-sports-fc-24-todo-sabemos-sucesor-fifa-24-3084248.jpg",
+        "description": "El juego de fútbol más popular del mundo con gráficos impresionantes y jugabilidad realista."
+      },
+      {
+        "name": "Need for Speed: Heat",
+        "url": "https://i.ytimg.com/vi/04KPiGmC7Lc/maxresdefault.jpg",
+        "description": "Experimenta la emoción de las carreras callejeras ilegales en este juego de velocidad."
+      },
+      {
+        "name": "Assassin's Creed Valhalla",
+        "url": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/01lCIVJSjkjeeg5BYDawQi/548d2eb6b9897542dc57bd0194dc3e7f/ACV_KeyArt11__960x540.png",
+        "description": "Explora el mundo vikingo en este juego de acción y aventuras lleno de historia y misterio."
+      },
+      {
+        "name": "The Witcher 3: Wild Hunt",
+        "url": "https://store-images.s-microsoft.com/image/apps.46303.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.abbf704e-3676-4fb7-9f68-f4425de5df24?q=90&w=480&h=270",
+        "description": "Embárcate en una épica búsqueda en este juego de rol de mundo abierto con historias emocionantes."
+      },
+      {
+        "name": "Grand Theft Auto V",
+        "url": "https://assets.xboxservices.com/assets/0b/17/0b179504-412d-4af7-9e00-3e3d92633577.jpg?n=GTA-V_GLP-Page-Hero-1084_1920x1080.jpg",
+        "description": "Sumérgete en el mundo criminal en este juego lleno de acción y aventuras en un mundo abierto."
+      }
+    ]
+  }
+  

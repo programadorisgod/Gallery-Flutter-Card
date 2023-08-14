@@ -1,0 +1,30 @@
+{
+    "tv": [
+      {
+        "name": "Samsung QLED Q90T",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/co/feature/164032679/co-feature-the-most-powerful-4k-experience-ever-532136706?$FB_TYPE_A_MO_JPG$",
+        "description": "Un televisor 4K con tecnología QLED y colores vivos."
+      },
+      {
+        "name": "LG OLED CX",
+        "url": "https://cdn.mos.cms.futurecdn.net/iswusm2ZjFZ4uhXT7cUHxS.jpg",
+        "description": "Televisor OLED con negros profundos y excelente calidad de imagen."
+      },
+      {
+        "name": "Sony BRAVIA X90J",
+        "url": "https://m.media-amazon.com/images/I/91KZbi-CbzL.jpg",
+        "description": "Televisor con tecnología Triluminos y potente procesamiento de imagen."
+      },
+      {
+        "name": "TCL 6-Series",
+        "url": "https://m.media-amazon.com/images/I/91ZrvnzneML.jpg",
+        "description": "Televisor con Roku integrado y calidad de imagen sorprendente."
+      },
+      {
+        "name": "Hisense U8G",
+        "url": "https://hisense.com.au/wp-content/uploads/2021/05/HIS9704_Hisense_55and65U8G_Product_Image_F-1.jpg",
+        "description": "Televisor con sistema operativo Android TV y alto contraste."
+      }
+    ]
+  }
+  
